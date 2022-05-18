@@ -18,6 +18,7 @@ body {
 .titulo {
   display: flex;
   color: #fff;
+  font-size: min(50px, 4vw);
   margin-right: 18px;
 }
 .img-titulo {
